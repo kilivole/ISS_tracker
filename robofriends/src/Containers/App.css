@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Black Indie Personal Use Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Black Indie Personal Use Regular'), url('BlackIndiePersonalUse-X3A6g.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Black Indie Personal Use Regular';
+    color:rgb(12, 72, 112);
+}
+
